@@ -1,0 +1,3 @@
+/home/xiaomiao/testc/testmake/build/CMakeFiles/print.dir
+/home/xiaomiao/testc/testmake/build/CMakeFiles/edit_cache.dir
+/home/xiaomiao/testc/testmake/build/CMakeFiles/rebuild_cache.dir
